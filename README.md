@@ -6,10 +6,9 @@ https://jykkeforum.herokuapp.com
 
 [![Code Climate](https://codeclimate.com/github/jlehvae/forum.png)](https://codeclimate.com/github/jlehvae/forum)
 
+Wiki at https://github.com/jlehvae/forum/wiki
+
 ## Introduction
 
 A website that lets it's users to read threads that contains posts by other users. If the user registers through Github
 he / she can also start new threads and write new posts. Users can also like or dislike posts.
-
-## Data model
-
